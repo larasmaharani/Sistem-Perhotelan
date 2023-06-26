@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form\Booking\BookingKamar_.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Booking\BukuTamu\BukuTamu_.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Booking\BukuTamu\CheckOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Booking\BukuTamu\EditBukuTamu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Booking\BukuTamu\HapusBukuTamu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Booking\BukuTamu\InfoBukuTamu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Booking\EditBookingKamar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Booking\HapusBookingKamar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Booking\InfoBookingKamar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Booking\PilihKamar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Booking\PilihTamu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\JenisKamar\EditJenisKamar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\JenisKamar\HapusJenisKamar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\JenisKamar\InfoJenisKamar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\JenisKamar\JenisKamar_.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\JenisKamar\TambahJenisKamar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Kamar\EditKamar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Kamar\HapusKamar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Kamar\InfoKamar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Kamar\Kamar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Kamar\TambahKamar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Login_Regist\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Login_Regist\Preview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Login_Regist\Regist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Penginapan\Penginapan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Tamu\EditTamu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Tamu\HapusTamu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Tamu\InfoTamu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Tamu\TambahTamu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Tamu\Tamu_.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
